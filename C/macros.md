@@ -51,3 +51,4 @@ However, macros also have some drawbacks in C programming, such as:
 - They can make the code more **difficult** to debug or test, because they are not visible to the debugger or the compiler. For example, if we use a macro name that conflicts with a variable or function name, it may cause confusion or errors.
 
 Therefore, it is important to use macros carefully and wisely in C programming.
+gi
