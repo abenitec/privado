@@ -1,4 +1,9 @@
 #include <stdio.h>
+/*
+*main - print the size of datatypes.
+*
+*Return: always 0
+*/
 
 int main() {
     int a;

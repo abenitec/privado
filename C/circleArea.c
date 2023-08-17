@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include "circleArea.h"
 
+/*
+*main - area of the ciecle
+*
+*Return: always 0
+*/
+
 int main(){
 	
 	int r= 5;
