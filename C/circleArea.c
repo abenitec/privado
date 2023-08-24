@@ -2,7 +2,7 @@
 #include "circleArea.h"
 
 /*
-*main - area of the ciecle
+*main - area of the circle
 *
 *Return: always 0
 */

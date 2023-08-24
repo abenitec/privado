@@ -1,4 +1,9 @@
 #include <stdio.h>
+/*
+*main - print info of Stduents 
+*
+*Return : always 0
+*/
 
 int main(){
 	
