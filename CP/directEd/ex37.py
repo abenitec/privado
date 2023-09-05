@@ -1,8 +1,9 @@
-#Python: File I/O
-
-name = input("What's ur name? ")
-
-file = open("names.txt", "a")
-# Write the user's name to the file
-file.write(f"{name}\n")
-file.close()
+def divide():
+    try:
+        num1 = int(input("Enter the first number: "))
+        num2 = int(input("Enter the second number: "))
+        print(num1 / num2)
+    except ZeroDivisionError:
+        print("None")
+    
+divide()
